@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**fhdyhdr/fhdyhdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Johan Tri Asmara, a Full-Stack Web Developer focused on building responsive, practical, and database-driven web applications.
 
-Here are some ideas to get you started:
+### Currently working on
+- Web application projects with clean UI, backend logic, and database integration
+- Portfolio improvements and selected project documentation
+- Royalty-free music platform development as part of my thesis project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Technologies
+- Frontend: JavaScript, Next.js, Tailwind CSS, HTML, CSS, EJS
+- Backend: Node.js, Express.js, PHP, CodeIgniter 3
+- Database: MySQL
+- Tools: Git, GitHub, Docker, VS Code
+
+### Reach me
+- Portfolio: https://jodev-three.vercel.app
+- LinkedIn: https://www.linkedin.com/in/johantriasmara
+- Email: triasmara.dev@gmail.com
