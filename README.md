@@ -1,4 +1,5 @@
-# <img width="55%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=520&height=32&lines=Hi+there%2C+I'm+Johan+Tri+Asmara"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=fhdyhdr&color=191717">
+
+# <img width="55%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=520&height=35&lines=Hi+there%2C+I'm+Johan+Tri+Asmara"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=fhdyhdr&color=191717">
 
 <div align="center">
 
@@ -24,22 +25,30 @@
 
 • I enjoy working on clean user interfaces, backend logic, database integration, and web systems that solve real digital needs.<br /><br />
 
-• Currently working on web application projects, portfolio improvements, and royalty-free music platform development as part of my thesis project.<br /><br />
+• Currently working on web application projects, portfolio improvements, selected project documentation, and a royalty-free music platform as part of my thesis project.<br /><br />
 
-• My Portfolio: <a href="https://jodev-three.vercel.app">jodev-three.vercel.app</a><br />
-• Reach me: <a href="mailto:triasmara.dev@gmail.com">triasmara.dev@gmail.com</a>
+• View my <a href="https://jodev-three.vercel.app">Portfolio Website</a><br />
+• Connect with me on <a href="https://www.linkedin.com/in/johantriasmara">LinkedIn</a><br />
 </samp>
 
 ## Technologies I Use
 
-<img width="65%" align="center" src="https://skillicons.dev/icons?i=js,html,css,nextjs,nodejs,express,php,mysql,tailwind,docker,git,github,vscode&perline=7">
+<img width="65%" align="center" src="https://skillicons.dev/icons?i=js,nextjs,tailwind,html,css,nodejs,express,php,mysql,docker,git,github,vscode&perline=7">
 
 <br /><br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CodeIgniter_3-000000?style=for-the-badge&logo=codeigniter&logoColor=EF4223">
+  <img src="https://img.shields.io/badge/CodeIgniter_3-000000?style=for-the-badge&logo=codeigniter&logoColor=white">
   <img src="https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white">
 </p>
+
+## Currently Working On
+
+<samp>
+• Web application projects with clean UI, backend logic, and database integration<br />
+• Portfolio improvements and selected project documentation<br />
+• Royalty-free music platform development as part of my thesis project<br />
+</samp>
 
 ## Featured Projects
 
@@ -51,16 +60,16 @@ Responsive school profile website with admin dashboard and CRUD-based content ma
 Thesis project focused on music streaming, playlist organization, and copyright-safe audio discovery.<br /><br />
 
 • <b>Master Kost — Boarding House Management System</b><br />
-Web-based system for room management, bookings, payments, and financial reports.<br /><br />
+Web-based management system for rooms, bookings, payments, and financial reports.<br /><br />
 
 • <b>Sistem Rekomendasi Wisata — Tourism Recommendation System</b><br />
-Location-based tourism recommendation system using latitude and longitude data.
+Location-based tourism recommendation system using latitude and longitude data.<br />
 </samp>
 
 ## My Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=fhdyhdr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fhdyhdr&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fhdyhdr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
