@@ -33,6 +33,11 @@
   <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,express,php,mysql,docker,git,github,html,css,tailwind,vscode" alt="Tools and technologies" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" />
+  <img src="https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+</p>
+
 ---
 
 ## 📌 Focus
@@ -46,9 +51,17 @@
 
 ## 📫 Reach Me
 
-- Portfolio: https://jodev-three.vercel.app
-- LinkedIn: https://www.linkedin.com/in/johantriasmara
-- Email: triasmara.dev@gmail.com
+<p>
+  <a href="https://jodev-three.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/johantriasmara">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:triasmara.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
