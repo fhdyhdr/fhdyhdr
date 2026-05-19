@@ -1,4 +1,4 @@
-# Hi, I'm Johan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi, I'm Johan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -30,7 +30,7 @@
 ## 🛠 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,express,php,mysql,docker,git,github,html,css,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,express,php,mysql,docker,git,github,html,css,tailwind,vscode" alt="Tools and technologies" />
 </p>
 
 ---
@@ -52,4 +52,10 @@
 
 ---
 
- <img src="https://github.com/user-attachments/assets/603f3800-d137-4883-802b-a85431398ebb" alt="Descrição da imagem" width="390px"/>
+<div align="center">
+  <img
+    src="https://github.com/user-attachments/assets/603f3800-d137-4883-802b-a85431398ebb"
+    alt="Developer working illustration"
+    width="390"
+  />
+</div>
