@@ -13,11 +13,11 @@
 
 <table>
   <tr>
-    <td width="120" align="center">
+    <td width="140" align="center">
       <img
         src="https://avatars.githubusercontent.com/fhdyhdr"
         alt="Johan Tri Asmara"
-        width="110"
+        width="130"
       />
     </td>
     <td>
