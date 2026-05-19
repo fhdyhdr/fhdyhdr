@@ -1,75 +1,51 @@
-
-# <img width="55%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=520&height=35&lines=Hi+there%2C+I'm+Johan+Tri+Asmara"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=fhdyhdr&color=191717">
+# Hi, I'm Johan 👋
 
 <div align="center">
-
-<p align="center">
-  <a href="https://jodev-three.vercel.app">
-    <img width="15%" src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC47F7&background=FF56FF00&center=true&width=520&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Web+Application+Development;Clean+UI+%C2%B7+Backend+Logic+%C2%B7+Database+Integration" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/fhdyhdr">
-    <img width="14%" src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/johantriasmara">
-    <img width="15%" src="https://img.shields.io/badge/LinkedIn-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:triasmara.dev@gmail.com">
-    <img width="13%" src="https://img.shields.io/badge/Email-000000.svg?&style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-## About Me
-
-<samp>
-• I'm Johan Tri Asmara, a Full-Stack Web Developer focused on building responsive, practical, and database-driven web applications.<br /><br />
-
-• I enjoy working on clean user interfaces, backend logic, database integration, and web systems that solve real digital needs.<br /><br />
-
-• Currently working on web application projects, portfolio improvements, selected project documentation, and a royalty-free music platform as part of my thesis project.<br /><br />
-
-• View my <a href="https://jodev-three.vercel.app">Portfolio Website</a><br />
-• Connect with me on <a href="https://www.linkedin.com/in/johantriasmara">LinkedIn</a><br />
-</samp>
-
-## Technologies I Use
-
-<img width="65%" align="center" src="https://skillicons.dev/icons?i=js,nextjs,tailwind,html,css,nodejs,express,php,mysql,docker,git,github,vscode&perline=7">
-
-<br /><br />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CodeIgniter_3-000000?style=for-the-badge&logo=codeigniter&logoColor=white">
-  <img src="https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white">
-</p>
-
-## Currently Working On
-
-<samp>
-• Web application projects with clean UI, backend logic, and database integration<br />
-• Portfolio improvements and selected project documentation<br />
-• Royalty-free music platform development as part of my thesis project<br />
-</samp>
-
-## Featured Projects
-
-<samp>
-• <b>SD Sanjaya Tritis — School Website</b><br />
-Responsive school profile website with admin dashboard and CRUD-based content management.<br /><br />
-
-• <b>Goovlize — Royalty-Free Music Platform</b><br />
-Thesis project focused on music streaming, playlist organization, and copyright-safe audio discovery.<br /><br />
-
-• <b>Master Kost — Boarding House Management System</b><br />
-Web-based management system for rooms, bookings, payments, and financial reports.<br /><br />
-
-• <b>Sistem Rekomendasi Wisata — Tourism Recommendation System</b><br />
-Location-based tourism recommendation system using latitude and longitude data.<br />
-</samp>
-
-## My Stats
-
-![](https://github-readme-stats.vercel.app/api?username=fhdyhdr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fhdyhdr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 </div>
+
+---
+
+<table>
+  <tr>
+    <td width="180">
+      <img src="https://avatars.githubusercontent.com/fhdyhdr" alt="Johan Tri Asmara" width="160" style="border-radius: 12px;" />
+    </td>
+    <td>
+      <h3>Full-Stack Web Developer</h3>
+      <p>
+        I build responsive, practical, and database-driven web applications with clean UI, backend logic, and database integration.
+      </p>
+      <p>
+        Currently focused on web application development, portfolio improvement, and selected project documentation.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,express,php,mysql,docker,git,github,html,css,tailwind,vscode" />
+</p>
+
+---
+
+## 📌 Focus
+
+- Full-Stack Web Development
+- Web Application Development
+- Clean UI & Responsive Layout
+- Backend Logic & Database Integration
+
+---
+
+## 📫 Reach Me
+
+- Portfolio: https://jodev-three.vercel.app
+- LinkedIn: https://www.linkedin.com/in/johantriasmara
+- Email: triasmara.dev@gmail.com
