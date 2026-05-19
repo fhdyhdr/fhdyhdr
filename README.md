@@ -1,4 +1,4 @@
-# Hi, I'm Johan 👋
+# Hi, I'm Johan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -49,3 +49,7 @@
 - Portfolio: https://jodev-three.vercel.app
 - LinkedIn: https://www.linkedin.com/in/johantriasmara
 - Email: triasmara.dev@gmail.com
+
+---
+
+ <img src="https://github.com/user-attachments/assets/603f3800-d137-4883-802b-a85431398ebb" alt="Descrição da imagem" width="390px"/>
