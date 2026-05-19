@@ -11,24 +11,26 @@
 
 ---
 
-<div align="center">
-  <img
-    src="https://avatars.githubusercontent.com/fhdyhdr"
-    alt="Johan Tri Asmara"
-    width="150"
-    style="border-radius: 12px;"
-  />
-
-  <h3>Full-Stack Web Developer</h3>
-
-  <p>
-    I build responsive, practical, and database-driven web applications with clean UI, backend logic, and database integration.
-  </p>
-
-  <p>
-    Currently focused on web application development, portfolio improvement, and selected project documentation.
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img
+        src="https://avatars.githubusercontent.com/fhdyhdr"
+        alt="Johan Tri Asmara"
+        width="110"
+      />
+    </td>
+    <td>
+      <h3>Full-Stack Web Developer</h3>
+      <p>
+        I build responsive, practical, and database-driven web applications with clean UI, backend logic, and database integration.
+      </p>
+      <p>
+        Currently focused on web application development, portfolio improvement, and selected project documentation.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
